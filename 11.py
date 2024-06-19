@@ -1,4 +1,4 @@
-# # Write a python program that generates the first n numbers in the Fibonacci sequence. 
+# Write a python program that generates the first n numbers in the Fibonacci sequence. 
 n=int(input("Enter the number:"))
 if n <= 0:
     print("Please enter a positive integer.")
